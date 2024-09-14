@@ -1,0 +1,80 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Montserrat;
+}
+
+.nav-item {
+        margin-right: 5px;
+        margin-left:15px;
+ }
+
+ /* About techhub section */
+.what {
+    color: #7A4495;
+    text-align: center;
+    line-height: 3.5rem;
+}
+
+#about-techhub{
+   word-spacing: 0.2rem;
+}
+
+/* About attribute section */
+#about-attribute{
+    padding: 7% 15%;
+    background-color: #fff;
+}
+
+.about-row{
+    text-align: center;
+}
+
+.icon {
+    color: purple;
+    margin-bottom: 2rem;
+}
+
+.icon:hover {
+    color: #7A4495;
+}
+
+/* Button */
+button{
+    background-color: #7A4495;
+    color: #fff;
+   border: solid #7A4495 ;
+   border-top-left-radius: 20%;
+   border-bottom-right-radius: 20%;
+   margin-left: 50px;
+   margin-bottom: 20px;
+   margin-top: 20px;
+   padding: 2%;
+   font-weight: bolder;
+ }
+
+ a {
+     text-decoration: none;
+     color: #fff;
+ }
+
+ a:hover {
+     color: #fff;
+     text-decoration: none;
+ }
+
+/* Footer Section */
+ #footer{
+    background-color: purple;
+    color: #fff;
+    text-align: center;
+    padding: 0.5% 0.5%;
+    }
+
+    .icon-footer{
+    margin: 10px;
+    }

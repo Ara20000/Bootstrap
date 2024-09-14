@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Montserrat;
+}
+/* Top Intro Section */
+.top-intro {
+    width:100%;
+}
+/* Contact Us Section */
+#contact-us {
+    margin: 50px;
+}
+
+.contact-flex {
+    display: flex;
+    flex-direction: row;
+}
+
+.left-contact {
+    margin-right: 10%;
+    text-align: center;
+}
+
+.form {
+    margin-left: 10%;
+}
+
+input{
+    margin: 5%;
+    
+}
+
+hr {
+    border: solid 1px black;
+    width: 50%; 
+    margin: 10% 25% 10% 25%;
+
+}
+
+/* Button */
+button{
+    background-color: #7A4495;
+    color: #fff;
+   border: solid #7A4495 ;
+   border-top-left-radius: 20%;
+   border-bottom-right-radius: 20%;
+   margin-left: 50px;
+   margin-bottom: 20px;
+   margin-top: 20px;
+   padding: 2%;
+   font-weight: bolder;
+   cursor: pointer;
+ }
+
+ 
+
+ /* Footer Section */
+ #footer{
+    background-color: purple;
+    color: #fff;
+    text-align: center;
+    padding: 0.5% 0.5%;
+    }
+
+    .icon-footer{
+    margin: 10px;
+    }

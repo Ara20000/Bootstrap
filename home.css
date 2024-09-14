@@ -1,0 +1,97 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Montserrat;
+}
+
+.nav-item {
+        margin-right: 5px;
+        margin-left:15px;
+        }
+        
+    /* TechHub Intro Section */
+ #techhub-intro {
+        background-color:#fff;
+        color: #000;
+        text-align: center;
+        margin: 3%;
+    }
+
+    .techhub-img {
+        margin: 20px;
+        width: 150px;
+        height: 150px;
+        border-radius: 100%;
+    }
+
+    .techhub-text {
+        line-height: 3.5rem;
+    }
+
+    /* Techhub Impact Section */
+    #techhub-impact{
+        text-align: center;
+        background-color: #7A4495;
+        margin-top: 50px;
+        color: #fff;
+    }
+
+    .impact-img {
+        margin: 20px;
+        width: 150px;
+        height: 150px;
+        border-radius: 100%;
+    }
+
+/* Carousel Section */
+    .carousel-item{
+        padding: 7% 15%;
+    }
+
+    .h3purple {
+        color: #7A4495;
+        margin-top: 50px;
+    }
+
+    .h4purple {
+        color: #7A4495;
+    }
+/* Button */
+    button{
+       background-color: #7A4495;
+       color: #fff;
+      border: solid #7A4495 ;
+      border-top-left-radius: 20%;
+      border-bottom-right-radius: 20%;
+      margin-left: 50px;
+      margin-bottom: 20px;
+      margin-top: 20px;
+      padding: 2%;
+      font-weight: bolder;
+    }
+
+    a {
+        text-decoration: none;
+        color: #fff;
+    }
+
+    a:hover {
+        color: #fff;
+        text-decoration: none;
+    }
+
+/* Footer Section */
+    #footer{
+        background-color: purple;
+        color: #fff;
+        text-align: center;
+        padding: 0.5% 0.5%;
+    }
+
+    .icon-footer{
+        margin: 10px;
+    }
